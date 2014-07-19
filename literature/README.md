@@ -30,3 +30,17 @@ Calibrated Label Ranking (CLR)
 ------------------------------
 * J. Fürnkranz, et.al. _Multilabel Classiﬁcation via Calibrated Label Ranking_.
   https://www.mathematik.uni-marburg.de/~eyke/publications/ml08.pdf
+
+Threshold Selection
+-------------------
+* Rong-En Fan and Chih-Jen Lin. _A Study on Threshold Selection for Multi-label
+  Classiﬁcation_
+  http://www.csie.ntu.edu.tw/~cjlin/papers/threshold.pdf
+
+Hierarchical Multi-Label Classification
+--------------------------------------
+* Lijuan Cai. _Multilabel Classification over Category Taxonomies_
+  http://cs.brown.edu/research/pubs/theses/phd/2008/cai.pdf
+* Wei Bi and James T. Kwok. _Multi-Label Classification on Tree- and
+  DAG-Structured Hierarchies_
+  http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Bi_10.pdf 
